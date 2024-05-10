@@ -14,7 +14,7 @@ I'm Jon Zorrilla, physicist and currently working as a data scientist at Institu
   ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
   ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-87565C?style=flat-square&logo=python&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-A87S88?style=flat-square&logo=python&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
   ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
