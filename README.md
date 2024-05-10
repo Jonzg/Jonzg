@@ -14,7 +14,7 @@ I'm Jon Zorrilla, physicist and currently working as a data scientist at Institu
   ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
   ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-11557C?style=flat-square&logo=python&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-87565C?style=flat-square&logo=python&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
   ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
@@ -30,8 +30,6 @@ I'm Jon Zorrilla, physicist and currently working as a data scientist at Institu
 
 - **Big Data Technologies:** 
   ![Hadoop](https://img.shields.io/badge/-Hadoop-FF652F?style=flat-square&logo=apache-hadoop&logoColor=white)
-  ![FAISS](https://img.shields.io/badge/-FAISS-006064?style=flat-square)
-  ![Chroma Vector Databases](https://img.shields.io/badge/-Chroma_Vector_Databases-311B92?style=flat-square)
 
 - **Visualization Tools:** 
   ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
