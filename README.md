@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jon Zorrilla, physicist and currently working as a data scientist at Instituto Ibermática de Innovación (i3B).
+
 <!--
 **Jonzg/Jonzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
