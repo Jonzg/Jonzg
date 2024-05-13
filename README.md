@@ -11,15 +11,14 @@ I'm Jon Zorrilla, physicist and currently working as a data scientist at Institu
 - **Data Science:**
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-  ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-A87S88?style=flat-square&logo=python&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
   ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 
-- **Machine Learning:** 
+- **Machine Learning and Deep learning:**
+  ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
@@ -30,6 +29,7 @@ I'm Jon Zorrilla, physicist and currently working as a data scientist at Institu
 
 - **Big Data Technologies:** 
   ![Hadoop](https://img.shields.io/badge/-Hadoop-FF652F?style=flat-square&logo=apache-hadoop&logoColor=white)
+  ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
 - **Visualization Tools:** 
   ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
